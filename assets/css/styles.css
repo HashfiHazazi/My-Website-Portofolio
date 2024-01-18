@@ -323,8 +323,13 @@ img {
   width: 55%;
 }
 .skills__android {
-  width: 90%;
+  width: 80%;
 }
+
+.skills__flutter{
+  width: 60%;
+}
+
 .skills__css {
   width: 85%;
 }
